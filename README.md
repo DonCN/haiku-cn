@@ -20,7 +20,7 @@ haiku-cn 是 [Haiku 中文用户社区](http://www.haiku-cn.org/) 站点文档�
 
 [Kokito](): 也就是 Jorge G.Mare，没有他的支持，也就没有Haiku中文用户社区，感谢他创立了Haiku中文用户社区，以及这些年来对的资金支持。
 
-其他给予我们帮助过的朋友们，老李，drill，皇粮，Yu Chen，等等很多网友对我们的帮助和支持。
+其他给予我们帮助过的朋友们，老李，dill，皇粮，Yu Chen，等等很多网友对我们的帮助和支持。
 
 
 
